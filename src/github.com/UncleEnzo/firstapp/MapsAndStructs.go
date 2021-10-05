@@ -101,8 +101,8 @@ func structEmbedding(){
 
 //tagging example
 type AnimalTag struct {
-	Name string `required max: "100"`
-	Origin string
+    Name string `required max:100`
+    Origin string
 }
 
 func main() {

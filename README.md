@@ -1,2 +1,1 @@
-Learning about go
-Thought I would document what I'm learning
+Compilation of everything I've learned about GO
