@@ -18,6 +18,7 @@ func main() {
 	directionLockedChannel()
 	bufferedChannels()
 	bufferedChannelsRecieverClose()
+	selectStatements() 
 }
 
 const (
